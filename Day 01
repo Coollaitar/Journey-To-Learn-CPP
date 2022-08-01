@@ -24,3 +24,19 @@ int main() {
     std::cout<<"Amazing thats my fav number too"<<std::endl;
     std::cout<<"No really!, "<<fav<< " is my fav number"<<std::endl;
 }
+
+Spaces Separated Question :
+
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int num1 ;
+    double num2;
+    
+    cout<<"Enter Two Integers with space separated ";
+    cin>>num1>>num2;
+    cout<<"First Digit Is "<<num1<<" Second digit is "<<num2;
+    return 0; 
+}
