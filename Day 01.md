@@ -11,7 +11,7 @@ int main() {
     return 0;
 }
 
-Challenge [Section 4] :
+### **Challenge [Section 4]** :
 
 #include <iostream>
 
@@ -25,7 +25,7 @@ int main() {
     std::cout<<"No really!, "<<fav<< " is my fav number"<<std::endl;
 }
 
-Spaces Separated Question :
+### **Spaces Separated Question** :
 
 #include <iostream>
 
