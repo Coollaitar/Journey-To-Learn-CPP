@@ -1,7 +1,7 @@
 ###Program 1 :###
 
 #include <iostream>
-
+```
 int main() {
     
     int favorite_number;   
@@ -10,3 +10,4 @@ int main() {
     std::cout<<"Amazing ! Thats my favorite number too!"<<std::endl; 
     return 0;
 }
+```
