@@ -1,6 +1,6 @@
 # Journey-To-Learn-CPP
 
-Resources : 
+_Resources_ : 
 
 Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/9535214#overview
 
