@@ -2,12 +2,25 @@
 
 #include <iostream>
 
-```int main() {
+int main() {
     
     int favorite_number;   
     std::cout <<"Enter your favourite number between 1 and 100:";    
     std::cin >> favorite_number;    
     std::cout<<"Amazing ! Thats my favorite number too!"<<std::endl; 
     return 0;
-}```
+}
 
+Challenge [Section 4] :
+
+#include <iostream>
+
+int main() {
+    
+    int fav ;
+    std::cout<<"Enter Your Favourite Number Between 1 to 100:"<<std::endl;
+    
+    std::cin>> fav;
+    std::cout<<"Amazing thats my fav number too"<<std::endl;
+    std::cout<<"No really!, "<<fav<< " is my fav number"<<std::endl;
+}
