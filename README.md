@@ -15,4 +15,4 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Will be starting with Variables and Constans from tommorow. |
 
 
-## **Day 02** :
+| **Day 02** :|
