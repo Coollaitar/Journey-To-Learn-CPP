@@ -1,7 +1,8 @@
 # **Journey-To-Learn-CPP**
 
 
-<img src="[img_girl.jpg](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/51/af81efe486417a81ab080be3ed731a/C-PartA.jpg?auto=format%2Ccompress&dpr=1)" width="700" height="500">
+
+<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/51/af81efe486417a81ab080be3ed731a/C-PartA.jpg?auto=format%2Ccompress&dpr=1" width="700" height="500">
 
 ## **Resources** : 
 
