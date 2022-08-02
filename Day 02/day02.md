@@ -17,7 +17,7 @@ int main() {
 
 }
  
-### **2) dataTypes** :
+### **2) Datatypes** :
  
  #include <iostream>
 
