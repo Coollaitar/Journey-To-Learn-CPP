@@ -6,12 +6,15 @@
 
 int main() {
     
-    int fav ;
-    std::cout<<"Enter Your Favourite Number Between 1 to 100:"<<std::endl;
-    
-    std::cin>> fav;
-    std::cout<<"Amazing thats my fav number too";
-    std::cout<<"No really!, "<<fav << "is my fav number"<<std::endl;
+    int room_width;
+    int room_length;
+    cout<"Enter the width of the room : "<<endl;
+    cin>>room_width;
+    cout<"Enter the length of the room : "<<endl;
+    cin>>room_length;
+    cout<<"The area of the room is "<<room_width * room_length<<" sqaure feet."<<endl;
+    return 0;
+
 }
  
  **2) dataTypes** :
@@ -35,5 +38,6 @@ int main() {
     cout<<prod<<endl;
     cout<<num3<<endl;
     cout<<num4;
+    return 0;
 }  
 
