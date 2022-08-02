@@ -127,3 +127,65 @@ int main() {
     
     
 }
+ 
+### **Section Challenge (Section-7)** :
+
+ 
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+int main() {
+    
+    vector <int> vector1 {};
+    vector <int> vector2 {};
+    vector1.push_back(10);
+    vector1.push_back(20);
+    
+    //display vector 1
+    
+    cout<<vector1.at(0)<<endl;
+    cout<<vector1.at(1)<<endl;
+    cout<<"Size of vector1 : "<<vector1.size()<<endl<<endl;
+    
+    vector2.push_back(100);
+    vector2.push_back(200);
+    
+    //display vector2
+    cout<<vector2.at(0)<<endl;
+    cout<<vector2.at(1)<<endl;
+    cout<<"Size of vector2 : "<<vector2.size()<<endl;
+    
+    //declare empty 2D vector
+    
+    vector<vector<int>> vector_2d;
+    
+    //add vector1 to vector2d
+    //add vector2 to vector2d
+    
+    vector_2d.push_back(vector1);
+    vector_2d.push_back(vector2);
+    
+    //display elements of 2d vector
+    
+    cout<<vector_2d.at(0).at(0)<<" "<<vector_2d.at(0).at(1)<<endl;
+    cout<<vector_2d.at(1).at(0)<<" "<<vector_2d.at(1).at(0)<<endl<<endl;
+    
+    //change the vector1
+    
+    vector1.at(0) = 1000;
+    
+    //display the vector elements in 2d using at method
+    
+    cout<<vector_2d.at(0).at(0)<<" "<<vector_2d.at(0).at(1)<<endl;
+    cout<<vector_2d.at(1).at(0)<<" "<<vector_2d.at(1).at(1)<<endl;
+    
+    //display vector1 
+    
+    cout<<vector1.at(0)<<endl;
+    cout<<vector1.at(1)<<endl;
+    cout<<"Size of vector 1 is : "<<vector1.size()<<endl;
+
+    return 0;  
+}   
