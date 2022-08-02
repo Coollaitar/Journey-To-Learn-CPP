@@ -16,14 +16,17 @@ int main() {
  
  **2) dataTypes** :
  
- #include <iostream>
+` #include <iostream>
 
 using namespace std;
 
 int main() {
     long num1 {1000000};
+ 
     long num2 {1000};
+
     long long prod {num1*num2};
+ 
     unsigned int num3 {0};
     signed int num4 {12};
     
@@ -31,3 +34,4 @@ int main() {
     cout<<num3<<endl;
     cout<<num4;
 }   
+`
