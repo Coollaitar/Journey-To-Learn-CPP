@@ -60,3 +60,36 @@ int main() {
  
     return 0;
 }
+ 
+ **4) Constants** :
+ 
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    
+    int number_of_rooms {0};
+    const double price_per_room {30.2};
+    const double taxes {0.06};
+    const int validity {30};
+    
+    cout<<"Enter the number of rooms : "<<endl;
+    cin>>number_of_rooms;
+    
+    cout<<"Number of Rooms are : "<<number_of_rooms<<endl; //number of rooms
+    
+    cout<<"Price per room :$ "<<price_per_room<<endl; //price per room
+    
+    cout<<"Cost :$ "<<number_of_rooms * price_per_room<<endl; //cost
+    
+    cout<<"Taxes :$ "<<number_of_rooms * price_per_room * taxes<<endl; //taxes
+    
+    cout<<"-------------------------------------------------"<<endl;
+    
+    cout<<"Total Estimated Value :$ "<<(number_of_rooms * price_per_room) +(number_of_rooms*price_per_room*taxes)<<endl;//final cost
+    
+    cout<<"This is Estimate is valid for "<<validity<<endl; //validity
+    
+    return 0;
+}
