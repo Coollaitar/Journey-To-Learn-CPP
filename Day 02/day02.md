@@ -20,7 +20,8 @@ int main() {
 
 using namespace std;
 
-|int main() {
+int main() {
+ 
     long num1 {1000000};
  
     long num2 {1000};
@@ -28,10 +29,11 @@ using namespace std;
     long long prod {num1*num2};
  
     unsigned int num3 {0};
+ 
     signed int num4 {12};
     
     cout<<prod<<endl;
     cout<<num3<<endl;
     cout<<num4;
-}   |
+}  
 
