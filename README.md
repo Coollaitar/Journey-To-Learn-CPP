@@ -1,5 +1,5 @@
 # **Journey-To-Learn-CPP**
-<img src = https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/51/af81efe486417a81ab080be3ed731a/C-PartA.jpg?auto=format%2Ccompress&dpr=1/>
+<p align="centre"> <img src="file:///C:/Users/aadit/Downloads/cpp.png" /> </p>
 
 ## **Resources** : 
 
