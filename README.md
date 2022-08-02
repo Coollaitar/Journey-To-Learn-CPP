@@ -33,4 +33,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - .at() is used to print or take input at particular index of vector |
 | - #include vector is used while coding with vectors | 
 | - vector <dtype> variable_name {} or () : used for declaring vector |
+| - Will be starting with section 8 ( Statements and Operators ) tommorow |
+  
+  
   
