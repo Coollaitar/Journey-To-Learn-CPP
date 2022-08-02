@@ -29,6 +29,6 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - push_back is used to add elements in vectors at the end |
 | - .size() is used to print size of vector |
 | - .at() is used to print or take input at particular index of vector |
-| - #include<vector> is used while coding with vectors | 
+| - #include vector is used while coding with vectors | 
 | - vector <dtype> variable_name {} or () : used for declaring vector |
   
