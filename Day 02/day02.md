@@ -93,3 +93,37 @@ int main() {
     
     return 0;
 }
+ 
+### **Section Challenge** :
+ 
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    int small_rooms {0};
+    int large_rooms {0};
+    const double small_room_price {25};
+    const double large_room_price {35};
+    const int validity {30};
+    const double taxes {0.06};
+    
+    cout<<"How many small rooms would you like cleaned? ";
+    cin>>small_rooms;
+    cout<<"How many large would you like cleaned?";
+    cin>>large_rooms;
+    cout<<"\nEstimate for carpet cleaning service"<<endl;
+    cout<<"Number of small rooms : "<<small_rooms<<endl;
+    cout<<"Number of large rooms : "<<large_rooms<<endl;
+    cout<<"Price per small room :$ "<<small_room_price<<endl;
+    cout<<"Price per large room :$ "<<large_room_price<<endl;
+    cout<<"Cost :$ "<<(small_rooms*small_room_price) + (large_rooms * large_room_price)<<endl;
+    cout<<"Tax:$ "<<((small_rooms*small_room_price) + (large_rooms * large_room_price))*taxes<<endl;
+    cout<<"========================================="<<endl;
+    cout<<"Total Estimate :$ "<<(small_rooms*small_room_price) + (large_rooms * large_room_price) + ((small_rooms*small_room_price) + (large_rooms * large_room_price))*taxes<<endl;
+    cout<<"This estimate id valid for "<<validity<<" days"<<endl;
+    
+    return 0;
+    
+    
+}
