@@ -41,10 +41,10 @@ int main() {
     return 0;
 }  
 
-**3) Size of dataTypes and maximum , minimum values of dTypes ** :
+**3) Size of dataTypes and maximum , minimum values of dTypes** :
   
 #include <iostream>
-**#include <climits>**
+#include <climits>
 using namespace std;
 
 int main() {
