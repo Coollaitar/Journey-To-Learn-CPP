@@ -23,4 +23,12 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Learnt use of Constants(const) before variables |
 | - Section 7 (Arrays and Vectors) |
 | - Accessing and Intializing Vectors |
+| - Intializing 2D vectors |
+| - Once pushed_back value of vector does not change |
+| - Example of above with a code - https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2002/day02.md#section-challenge-section-7- |
+| - push_back is used to add elements in vectors at the end |
+| - .size() is used to print size of vector |
+| - .at() is used to print or take input at particular index of vector |
+| - #include<vector> is used while coding with vectors | 
+| - vector <dtype> variable_name {} or () : used for declaring vector |
   
