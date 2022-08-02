@@ -1,6 +1,6 @@
 ## **Variables and Constants**
 
-**1) Declare and Intialize variables** :
+### **1) Declare and Intialize variables** :
 
  #include <iostream>
 
@@ -17,7 +17,7 @@ int main() {
 
 }
  
- **2) dataTypes** :
+### **2) dataTypes** :
  
  #include <iostream>
 
@@ -41,7 +41,7 @@ int main() {
     return 0;
 }  
 
-**3) Size of dataTypes and maximum , minimum values of dTypes** :
+### **3) Size of dataTypes and maximum , minimum values of dTypes** :
   
 #include <iostream>
  
@@ -61,7 +61,7 @@ int main() {
     return 0;
 }
  
- **4) Constants** :
+### **4) Constants** :
  
 #include <iostream>
 
