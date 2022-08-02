@@ -36,6 +36,10 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - #include vector is used while coding with vectors | 
 | - vector <dtype> variable_name {} or () : used for declaring vector |
 | - Will be starting with section 8 ( Statements and Operators ) tommorow |
+
+
+| <p align="center"> [Day 03](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2003/day03.md) </p> |
+| ------ |
   
   
   
