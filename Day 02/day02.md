@@ -18,20 +18,20 @@ int main() {
  
 ` #include <iostream>
 
-using namespace std;
+`using namespace std;
 
-int main() {
-    long num1 {1000000};
+`int main() {
+ `   long num1 {1000000};
  
-    long num2 {1000};
+  `  long num2 {1000};
 
-    long long prod {num1*num2};
+   ` long long prod {num1*num2};
  
-    unsigned int num3 {0};
-    signed int num4 {12};
+    `unsigned int num3 {0};
+    `signed int num4 {12};
     
-    cout<<prod<<endl;
-    cout<<num3<<endl;
-    cout<<num4;
-}   
+   ` cout<<prod<<endl;
+    `cout<<num3<<endl;
+    `cout<<num4;
+`}   
 `
