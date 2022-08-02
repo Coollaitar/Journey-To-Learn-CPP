@@ -12,8 +12,13 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Learnt how to get input from user by just separating it by spaces.|
 | - Completed 5 sections of the course and practiced some basic codes. |
 | - Learnt how to get user input and how to print the output using cin and cout. |
-| - Will be starting with Variables and Constans from tommorow. |
+| - Will be starting with Variables and Constants from tommorow. |
 
 
 | **Day 02** :|
 | ------ |
+| - Section 6 (Variables and Constants) |
+| - Learnt About Signed and Unsigned datatypes |
+| - Use #include <climits> library for printing max and min values of dataTypes |
+| - Learnt use of Constants(const) before variables |
+| - Section 7 (Arrays and Vectors) |
