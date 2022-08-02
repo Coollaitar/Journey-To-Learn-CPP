@@ -22,3 +22,5 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Use #include <climits> library for printing max and min values of dataTypes |
 | - Learnt use of Constants(const) before variables |
 | - Section 7 (Arrays and Vectors) |
+| - Accessing and Intializing Vectors |
+  
