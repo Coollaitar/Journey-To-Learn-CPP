@@ -42,7 +42,9 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | ------ |
 | - Made A Rupees to Dollar converter | 
 | - Increment and Decrement operator |  
-| - Difference between pre and post Increment or Decrement |  
+| - Difference between pre and post Increment or Decrement | 
+| - Mixed Expression and Conversion |
+| - Use of static_cast<> in printing |
   
 
   
