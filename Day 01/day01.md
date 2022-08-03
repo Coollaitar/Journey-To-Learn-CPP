@@ -1,5 +1,5 @@
 ## **Program 1** :
-
+```
 #include <iostream>
 
 int main() {
@@ -10,7 +10,7 @@ int main() {
     std::cout<<"Amazing ! Thats my favorite number too!"<<std::endl; 
     return 0;
 }
-
+```
 ### **Challenge [Section 4]** :
 
 #include <iostream>
