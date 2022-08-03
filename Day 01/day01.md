@@ -12,7 +12,7 @@ int main() {
 }
 ```
 ### **Challenge [Section 4]** :
-
+```
 #include <iostream>
 
 int main() {
@@ -24,9 +24,9 @@ int main() {
     std::cout<<"Amazing thats my fav number too"<<std::endl;
     std::cout<<"No really!, "<<fav<< " is my fav number"<<std::endl;
 }
-
+```
 ### **Spaces Separated Question** :
-
+```
 #include <iostream>
 
 using namespace std;
@@ -40,3 +40,4 @@ int main() {
     cout<<"First Digit Is "<<num1<<" Second digit is "<<num2;
     return 0; 
 }
+```
