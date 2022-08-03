@@ -1,6 +1,6 @@
 # **Statements and Operators**
 
-**Assignment Operator** : "="
+***Assignment Operator*** : "="
 
 ### **Practice Question (Rupees to Dollar Converter)** : 
 ```
@@ -69,3 +69,35 @@ int main() {
     cout<<(num1<num2)<<endl;
 }
 ```
+
+### **3) Logical Operator Wind_Speed and Temperature Question** : 
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    //logical operator code
+    bool wear_coat {false}; //set wear_coat as false while intializing
+    const double temp_to_wear_coat = 25;
+    const int speed_to_wear_coat = 45;
+    
+    //declare temp and speed of wind
+    int temperature {};
+    int speed_km_hr {};
+
+    // take input of temperature and speed of the wind
+    cout<<"Enter the Temperature and Speed of Weather : ";
+    cin>>temperature>>speed_km_hr;
+    
+    //enter condition in wear_coat
+    
+    wear_coat = (temperature < temp_to_wear_coat || speed_km_hr > speed_to_wear_coat);
+    cout<<"Wear a coat OR ? "<<wear_coat<<endl;
+    
+    wear_coat = (temperature < temp_to_wear_coat && speed_km_hr > speed_to_wear_coat);
+    cout<<"Wear a coat AND ? "<<wear_coat<<endl;
+    
+    return 0;
+}
+    ```
