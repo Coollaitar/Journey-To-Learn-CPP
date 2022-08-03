@@ -45,6 +45,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Difference between pre and post Increment or Decrement | 
 | - Mixed Expression and Conversion |
 | - Use of static_cast<> in printing |
+| - Equality Operator |  
   
 
   
