@@ -100,4 +100,52 @@ int main() {
     
     return 0;
 }
-    ```
+```
+
+### **Section Challenge (Section 8)** :
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    //conversion values
+    
+    const int dollar_value {100};
+    const int quarter_value {25};
+    const int dime_value {10};
+    const int nickel_value {5};
+    
+    int change_amount;
+    
+    cout<<"Enter a value in cents : ";
+    cin>>change_amount;
+    
+    int balance {},dollar {},quarters {},dimes {},nickels {},pennies {};
+    
+    dollar = change_amount/dollar_value;
+    balance = change_amount - (dollar*dollar_value);
+    
+    quarters = balance/quarter_value;
+    balance -= quarters*quarter_value;
+    
+    dimes = balance/dime_value;
+    balance -= dimes*dime_value;
+    
+    nickels = balance/nickel_value;
+    balance -= nickels*nickel_value;
+
+    pennies = balance;
+    
+    cout<<"-----------------"<<endl;
+    cout<<"dollars:"<<dollar<<endl;
+    cout<<"quarter:"<<quarters<<endl;
+    cout<<"dimes:"<<dimes<<endl;
+    cout<<"nickels:"<<nickels<<endl;
+    cout<<"pennies:"<<pennies<<endl;
+    
+    cout<<endl;
+    
+    return 0;   
+}
+ ```   
+    
