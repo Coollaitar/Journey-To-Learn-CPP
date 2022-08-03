@@ -28,4 +28,28 @@ int main() {
 }
 ```
 
-static_cast<double> 
+### **1)Expression and Conversion Problem** :
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    int num1;
+    int num2;
+    const int count {2};
+    int total;
+
+    cout<<"Enter the Two Numbers : ";
+    cin>>num1>>num2;
+    total = num1 + num2;
+    
+    double average {0.0};
+    
+    average  = static_cast<double> (total)/(count);
+    
+    cout<<"Average of Two Number is : "<<average<<endl;
+    
+    return 0;
+}
+ ```   
