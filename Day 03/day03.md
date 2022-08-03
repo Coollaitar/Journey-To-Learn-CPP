@@ -2,7 +2,7 @@
 
 **Assignment Operator** : "="
 
-### **Practice Question (Ruppees to Dollar Converter)** : 
+### **Practice Question (Rupees to Dollar Converter)** : 
 ```
 #include <iostream>
 
