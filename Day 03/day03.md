@@ -102,7 +102,7 @@ int main() {
 }
 ```
 
-### **Section Challenge (Section 8)** :
+### **4) Section Challenge (Section 8)** :
 ```
 #include <iostream>
 using namespace std;
