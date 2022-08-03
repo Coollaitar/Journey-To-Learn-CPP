@@ -27,3 +27,5 @@ int main() {
     return 0;    
 }
 ```
+
+static_cast<double> 
