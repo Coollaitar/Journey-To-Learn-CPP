@@ -54,7 +54,7 @@ int main() {
 }
  ```   
  
- **Use of Bool_aplha** :
+### **2) Use of Bool_alpha** :
 ``` 
  #include <iostream>
 using namespace std;
