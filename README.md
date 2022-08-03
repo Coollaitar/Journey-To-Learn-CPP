@@ -40,12 +40,13 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 
 | <p align="center"> [Day 03](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2003/day03.md) </p> |
 | ------ |
+| - Starting with Section 8 (Statements and Operators) |
 | - Made A Rupees to Dollar converter | 
 | - Increment and Decrement operator |  
 | - Difference between pre and post Increment or Decrement | 
 | - Mixed Expression and Conversion |
 | - Use of static_cast<> in printing |
-| - Equality Operator |  
+| - Equality Operator "==" or "!=" |  
   
 
   
