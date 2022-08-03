@@ -1,7 +1,7 @@
 ## **Variables and Constants**
 
 ### **1) Declare and Intialize variables** :
-
+```
  #include <iostream>
 
 int main() {
@@ -16,9 +16,9 @@ int main() {
     return 0;
 
 }
- 
+ ```
 ### **2) Datatypes** :
- 
+``` 
  #include <iostream>
 
 using namespace std;
@@ -40,9 +40,9 @@ int main() {
     cout<<num4;
     return 0;
 }  
-
+```
 ### **3) Size of dataTypes and maximum , minimum values of dTypes** :
-  
+```  
 #include <iostream>
  
 #include <climits>
@@ -60,9 +60,9 @@ int main() {
  
     return 0;
 }
- 
+ ```
 ### **4) Constants** :
- 
+ ```
 #include <iostream>
 
 using namespace std;
@@ -93,9 +93,9 @@ int main() {
     
     return 0;
 }
- 
+ ```
 ### **Section Challenge** :
- 
+``` 
 #include <iostream>
 using namespace std;
 
@@ -127,10 +127,10 @@ int main() {
     
     
 }
- 
+ ```
 ### **Section Challenge (Section-7)** :
 
- 
+ ```
 #include <iostream>
  
 #include <vector>
@@ -190,3 +190,4 @@ int main() {
 
     return 0;  
 }   
+```
