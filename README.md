@@ -48,6 +48,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Use of static_cast<> in printing |
 | - Equality Operator "==" or "!=" |  
 | - Use cout<<boolalpha to get output in boolean format |  
+| - Logical Operator (|| , && , !) OR , AND , Not Equal To |  
   
   
 
