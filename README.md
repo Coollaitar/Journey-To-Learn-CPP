@@ -50,7 +50,8 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Use cout<<boolalpha to get output in boolean format |  
 | - Logical Operator (|| , && , !) OR , AND , Not Equal To |  
 | - Section Challenge Code - https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2003/day03.md#4-section-challenge-section-8- |
- 
+| - Completed Section 8 |
+| - | 
   
 
   
