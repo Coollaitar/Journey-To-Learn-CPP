@@ -47,7 +47,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Mixed Expression and Conversion |
 | - Use of static_cast<> in printing |
 | - Equality Operator "==" or "!=" |  
-| - Use cout<<bool_alpha to get output in boolean format |  
+| - Use cout<<boolalpha to get output in boolean format |  
   
   
 
