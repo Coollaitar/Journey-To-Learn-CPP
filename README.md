@@ -2,7 +2,7 @@
 
 ## **🧑‍💻**
 
-<img src="https://im.ge/i/FbUwI9" width="1000" height="550">
+<a href="https://im.ge/i/FbUwI9"><img src="https://i.im.ge/2022/08/05/FbUwI9.day1.png" alt="day1" border="0"></a>
 
 <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/51/af81efe486417a81ab080be3ed731a/C-PartA.jpg?auto=format%2Ccompress&dpr=1" width="1000" height="550">
 
