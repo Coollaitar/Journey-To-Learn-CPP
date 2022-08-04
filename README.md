@@ -61,6 +61,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - If-Else statement |
 | - Nested If Statements |
 | - Switch-Case statement and Enumeration |
+| - Conditional Operator |  
   
   
 
