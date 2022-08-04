@@ -83,3 +83,41 @@ int main() {
     }
 }
 ```
+
+### **4) Nested Loops** :
+```
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main() {
+    
+    vector <int> data {}; //intialize vector
+    int num_items; //intialize number of items
+    
+    cout<<"Enter The Number of Items You Want To Enter: ";
+    cin>>num_items;
+    
+    for(int i{1};i<=num_items;i++){ //for loop to enter data_items into vector data
+        int data_items {};
+        cout<<"Enter Data Items "<<i<<":";
+        cin>>data_items;
+        data.push_back(data_items); // push back used to enter data into vector
+    }
+
+    cout<<"Displaying Histogram : "<<endl;
+    
+    for(auto val:data){ //vector val
+        //to print items of data (vector)
+        for(int i {1};i<=val;i++){
+            if(i%5==0) //skip this if you want to print just items
+                cout<<"@";
+            else
+                cout<<"*";
+        }
+        cout<<endl;
+    }
+    cout<<endl;
+    return 0;
+}
+```
