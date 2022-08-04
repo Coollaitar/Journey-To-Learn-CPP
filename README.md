@@ -76,6 +76,9 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Nested Loops |  
 | - Major use of vectors (size() , vector.at() , size_t) |  
   
+| <p align="center"> [Day 05](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2005/day05.md) </p> |
+| ------ |   
+  
 
   
   
