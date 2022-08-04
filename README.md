@@ -66,6 +66,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - For Loop |
 | - Range Based For Loop |  
 | - #include (iomanip) , cout<<fixed<<setprecision(1); |
+| - for(auto i : vec) |  
 
 
   
