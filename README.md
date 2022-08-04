@@ -67,7 +67,10 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Range Based For Loop |  
 | - #include (iomanip) , cout<<fixed<<setprecision(1); |
 | - for(auto i : vec) |  
-
+| - size_t is an unsigned int |
+| - You can replace size_t with int or unsigned int |
+| - while loop – First checks the condition, then executes the body |
+| - for loop – firstly initializes, then, condition check, execute body, update. |
 
   
   
