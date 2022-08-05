@@ -65,4 +65,29 @@ int main() {
     }
 }
 ```
+### **3) Find A Word(Position) from String** :
 
+#include <iostream>
+#include <string>
+#include <cctype>
+
+using namespace std;
+```
+int main() {
+    
+    string s1 {};
+    s1 = "This is my world";
+    string word{};
+    
+    cout<<"Enter a word: ";
+    cin>>word;
+    
+    size_t position = s1.find(word);
+    
+    if(position != string::npos){                                // Check if position is -1 or not
+        cout<<"Found "<<word<<" at postion: "<<position<<endl; 
+    }
+    else
+        cout<<"Not Found"<<endl;
+}   
+```
