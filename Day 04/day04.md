@@ -145,3 +145,88 @@ int main() {
     return 0;
 }
 ```
+### **6) Section Challenge** :
+```
+#include<iostream>
+#include<vector>
+
+using namespace std;
+
+int main()
+{
+    char selection{};
+    vector<int> numbers{};
+    int upgrade{};
+    do{
+        cout<<"P -print numbers"<<endl;
+        cout<<"A -add a number"<<endl;
+        cout<<"M -display mean of a number"<<endl;
+        cout<<"S -display the smallest number"<<endl;
+        cout<<"L -display the largest number"<<endl;
+        cout<<"Q -quit"<<endl;
+        
+        cout<<"enter your choice: ";
+        cin>>selection;
+
+        if(selection=='P' || selection=='p'){
+            if(numbers.size()==0){
+                cout<<"list is empty"<<endl;
+            }
+            else{
+                cout<<"[ ";
+                for(auto num: numbers)
+                    cout<<num<<" ";
+                cout<<"]";
+            }
+            cout<<endl;
+        }
+
+        else if(selection=='A' || selection=='a'){
+            cout<<"enter the number: ";
+            cin>>upgrade;
+            numbers.push_back(upgrade);
+        }
+
+        else if(selection=='M' || selection=='m'){
+            int mean{};
+            if(numbers.size()==0)
+                cout<<"cannot calculate mean for zero data"<<endl;
+            else{
+                int sum{};
+                for(auto num: numbers)
+                    sum = sum+num;
+                cout<<"the mean is "<<static_cast<double>(sum)/numbers.size()<<endl;    
+            }
+        }
+
+        else if(selection=='S' || selection=='s'){
+            if(numbers.size()==0)
+                cout<<"cannot detect smallest from an empty list"<<endl;
+            int small = numbers.at(0);
+            for(auto num: numbers)
+                if(num<small)
+                    small=num;
+            cout<<"smallest number is "<<small<<endl;
+        }
+
+        else if(selection=='L' || selection=='l'){
+            if(numbers.size()==0)
+                cout<<"cannot determine largest for empty list"<<endl;
+            int large = numbers.at(0);
+            for(auto num: numbers)
+                if(num>large)
+                    large = num;
+            cout<<"the largest number is: "<<large<<endl;
+
+        }
+
+        else{
+            cout<<"enter a valid choice please..."<<endl;
+        }
+        
+    }while(selection!='Q' && selection!='q');
+    
+    
+    return 0;
+}
+```
