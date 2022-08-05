@@ -72,7 +72,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - while loop – First checks the condition, then executes the body |
 | - for loop – firstly initializes, then, condition check, execute body, update. |
 | - do-while Loop |
-| - continue-break and infinte loops |
+| - continue-break and infinte loops <                                                                    > |
 | - Nested Loops |  
 | - Major use of vectors (size() , vector.at() , size_t) |  
 | - Completed Section 9 (Control Programming Flow) |
