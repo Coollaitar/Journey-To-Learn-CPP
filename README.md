@@ -85,6 +85,9 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - C-Style String #include(cstring) |
 | - Working with C-style strings |
 | - cin.getline(full_name,50) helps you to print full name including space upto 50 characters or any other limit you enter |
+| - isalpha() function in C++ checks if the given character is an alphabet or not |
+| -  |  
+  
    
 
 
