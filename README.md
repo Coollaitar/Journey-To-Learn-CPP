@@ -72,7 +72,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - while loop – First checks the condition, then executes the body |
 | - for loop – firstly initializes, then, condition check, execute body, update. |
 | - do-while Loop |
-| - continue-break and infinte loops <                                                                    > |
+| - continue-break and infinte loops |
 | - Nested Loops |  
 | - Major use of vectors (size() , vector.at() , size_t) |  
 | - Completed Section 9 (Control Programming Flow) |
@@ -89,10 +89,20 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - C++ strings #include(string) |  
 | - object.substr(start_index,length) |  
 | - object.find(search_string) , s1 += "Jomshi" - can used for concatinating |  
-| - getline(cin,s1) - read entire line until '\n' |
+| - getline(cin,s1) - read entire line until '\n' (DOESNT STOP AT SPACE) |
 | - getline(cin,s1,"x") - here x is an delimiter after x nothing will be printed | 
-| - Uppercase character come before the Lowercase character ASCII code |
-| -   
+| - Uppercase character come before the Lowercase character in ASCII code |
+| - s1.erase(index,length) |
+| - s1.find(word) , if(position != string::npos) |
+| - string::npos - npos is constant static value with highest possible value for an element of type size_t and it is defined with -1 |  
+| - formatted_full_name.insert(index,expression); |
+| - .swap() function in string |
+| - Remaining Section Challenge and Assignment |
+  
+ 
+| <p align="center"> [Day 06](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2006/day06.md) </p> |
+| ------ |   
+  
   
    
 
