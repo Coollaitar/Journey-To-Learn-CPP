@@ -1,6 +1,6 @@
 # **Character and Strings** :
 
-### **C-style Strings** :
+### **1) C-style Strings** :
 ```
 #include <iostream>
 #include <cctype>   // for character based functions
@@ -40,5 +40,28 @@ int main() {
             full_name[i] = toupper(full_name[i]);
       cout<<"Full Name is : "<<full_name[i];   
     }    
+}
+```
+### **2) C++ Strings** :
+```
+#include <iostream>
+#include <string>
+#include <cctype>
+
+using namespace std;
+
+int main() {
+    
+    string s1{};
+    s1 ="Aadit";
+    
+    for(size_t i{0};i<s1.length();i++){
+        cout<<s1.at(i);
+    }cout<<endl;
+    
+    //range based loop
+    for(auto c:s1){
+        cout<<c;
+    }
 }
 ```
