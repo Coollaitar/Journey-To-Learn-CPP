@@ -88,6 +88,11 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - isalpha() function in C++ checks if the given character is an alphabet or not |
 | - C++ strings #include(string) |  
 | - object.substr(start_index,length) |  
+| - object.find(search_string) , s1 += "Jomshi" - can used for concatinating |  
+| - getline(cin,s1) - read entire line until '\n' |
+| - getline(cin,s1,"x") - here x is an delimiter after x nothing will be printed | 
+| - Uppercase character come before the Lowercase character ASCII code |
+| -   
   
    
 
