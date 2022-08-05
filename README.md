@@ -81,6 +81,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | <p align="center"> [Day 05](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2005/day05.md) </p> |
 | ------ |   
 | - Starting With Section 10 (Characters and Strings) |
+| - Character Functions #include (cctype) library |
 
 
   
