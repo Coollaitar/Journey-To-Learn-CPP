@@ -65,22 +65,4 @@ int main() {
     }
 }
 ```
-### **3) Programme** :
-```
-int main() {
-    
-    string s1{};
-    s1 ="Aadit Palande";
-    
-   /* for(size_t i{0};i<s1.length();i++){
-        cout<<s1.at(i);
-    }cout<<endl;
-    
-    //range based loop
-    for(auto c:s1){
-        cout<<c;
-    }*/
-    
-    cout<<"String: "<<s1.substr(6,13);
-}
-```
+
