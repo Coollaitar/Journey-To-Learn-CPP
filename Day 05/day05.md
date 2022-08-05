@@ -66,13 +66,13 @@ int main() {
 }
 ```
 ### **3) Find A Word(Position) from String** :
-
+```
 #include <iostream>
 #include <string>
 #include <cctype>
 
 using namespace std;
-```
+
 int main() {
     
     string s1 {};
