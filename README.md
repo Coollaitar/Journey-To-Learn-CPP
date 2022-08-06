@@ -97,7 +97,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - string::npos - npos is constant static value with highest possible value for an element of type size_t and it is defined with -1 |  
 | - formatted_full_name.insert(index,expression); |
 | - .swap() function in string |
-| - Remaining Section Challenge and Assignment |
+| - Completed Section Challenge -https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2005/day05.md |
   
  
 | <p align="center"> [Day 06](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2006/day06.md) </p> |
