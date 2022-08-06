@@ -91,3 +91,63 @@ int main() {
         cout<<"Not Found"<<endl;
 }   
 ```
+
+### **4) Section Challenge** :
+```
+#include <iostream>
+#include <cstring>
+#include <vector>
+#include <cctype>
+
+using namespace std;
+
+int main() {
+    
+    string alphabet {"abcdefghijklmnopqurstvwxyzABCDEFGHIJKLMNOPQURSTVWXYZ"};
+    string key {"XZNLWEBGJHQDYVTKFUOMPCIASRxznlwebgjhqdyvtkfuompciasr"};
+    
+    string secret_message {};
+    
+    cout<<"Enter your secret message: ";
+    getline(cin,secret_message);
+    cout<<endl;
+    
+    string encrypted_message {};
+    
+    cout<<"Encrypting Message....."<<endl;
+    
+    for(char c: secret_message){                // finding c from string secret_message
+        size_t position = alphabet.find(c);     // usigned position will be to store the position of c in the string alphabet
+        
+        if(position != string::npos){           // if position is not equal to string npos
+            char new_char {key.at(position)};   // store the characters of the position in key string into new_char string
+            encrypted_message += new_char;      // add new_char to encrypted_message
+            
+        }else{
+            encrypted_message += c;             // else add c to encrypted_message
+        }
+    }
+        
+    cout<<"\nEncrypted Message is : "<<encrypted_message<<endl;
+    
+    cout<<"\nDecrypting Message...."<<endl;
+    string decrypted_message {};
+    
+    for(char c:encrypted_message){
+        size_t position = key.find(c);
+        
+        if(position != string::npos){
+            char new_char = alphabet.at(position);
+            decrypted_message += new_char;
+        }else{
+            decrypted_message += c;
+        }
+    }
+    
+    cout<<"Decrypted Message : "<<decrypted_message<<endl;
+  
+    cout<<endl;
+    return 0;
+    
+}
+```
