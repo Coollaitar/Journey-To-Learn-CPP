@@ -102,6 +102,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
  
 | <p align="center"> [Day 06](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2006/day06.md) </p> |
 | ------ |   
+| - Starting With Functions Section |
   
   
    
