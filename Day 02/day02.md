@@ -191,3 +191,29 @@ int main() {
     return 0;  
 }   
 ```
+
+### **How to take Input in vector** :
+```
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main() {
+    vector <int> num {};
+    int size {};
+    cout<<"Enter size: ";
+    cin>>size;
+    
+    for(int i {0};i<size;i++){
+        size_t elements[i];
+        cin>>elements[i];
+        num.push_back(elements[i]);
+          
+    }
+    for(int i {0};i<num.size();i++){
+        cout<<num[i]<<" ";
+        
+}
+    cout<<endl;   
+}
+```
