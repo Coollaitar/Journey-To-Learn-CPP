@@ -151,3 +151,39 @@ int main() {
     
 }
 ```
+
+### **5) Assignment 1** :
+```
+#include <iostream>
+#include <cstring>
+#include <vector>
+#include <cctype>
+
+using namespace std;
+
+int main() {
+    
+    string alphabet {"ABCDEFGHIJKLMNOPQURSTWVXYZ"};
+    
+    int i,j,k,l,size_of_pyramid {};
+    cout<<"Enter the size of size of pyramid: ";    
+    cin>>size_of_pyramid;
+    
+    for(i = 0;i<size_of_pyramid;i++){
+        for(j = size_of_pyramid-i ; j>0 ; j-- ){
+            
+            cout<<" ";
+        }
+        for(k = 0; k < i ; k++ ){
+            
+            cout<<alphabet.at(k);
+    }   
+        for(l = 1 ; l < i ; l++){
+            
+            cout<<alphabet.at(i-l-1);
+        }
+        cout<<endl;
+    }
+    return 0;
+}
+```
