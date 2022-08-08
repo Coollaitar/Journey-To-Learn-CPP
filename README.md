@@ -105,6 +105,8 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Starting With Functions Section |
 | - #include (cmath) - cmath is library in which we can use maths function |
 | - like - sqrt , cqrt , floor , ceil , round | 
+| - Pass the ```parameters``` from function if it returns something |
+| - Function Prototype |
 
   
   
