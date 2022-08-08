@@ -84,3 +84,27 @@ int main() {
     print_arr(my_arr,5,20);
 }
 ```               
+
+### **4) Pass by Reference** :
+```
+#include <iostream>
+#include <string>
+using namespace std;
+
+void str_print(string &name);
+
+void str_print(string &name){
+    
+    name = "Aadit";
+    
+}
+
+int main() {
+    
+    string name {"Moyo"};
+    
+    cout<<"No Reference: "<<name<<endl;
+    str_print(name);
+    cout<<"After Reference: "<<name;
+}
+```
