@@ -117,6 +117,13 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Passing Arrays to C++ Function |  
 | - Pass by Reference |
 | - Reference parameters (&parameter) |
+| - Value doesnt changes even when parameter is passed into the function in main function |
+| - Scope Rules |
+| - Local Scope OR Block Scope |
+| - Global Scope - Dont use Global Variables |
+| - Local variables declared inside main function |
+| - How do a ```function call``` work?? | 
+| - Recursive Functions |  
   
   
    
