@@ -107,6 +107,10 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - like - sqrt , cqrt , floor , ceil , round | 
 | - Pass the ```parameters``` from function if it returns something |
 | - Function Prototype |
+| - Program gets divided into two parts one is ```Header Information``` and ```Actual Implementation``` |
+| - Parameters and Return Statement |
+| - Remember the rules of PEMDAS when defining the body of your functions (P- Parentheses, E- Exponents, M- Multiplication, D- Division, A- Addition, and S- Subtraction) |  
+
 
   
   
