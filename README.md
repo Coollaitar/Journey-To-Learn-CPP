@@ -111,6 +111,8 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Parameters and Return Statement |
 | - Remember the rules of PEMDAS when defining the body of your functions (P- Parentheses, E- Exponents, M- Multiplication, D- Division, A- Addition, and S- Subtraction) |  
 | - You can add ```default argument values``` to the function eg-double function(double pi = 3.14) |
+| - If you are adding default arguements in a function then declare and define function before int main() |
+| - It will not work if you define it after int main() |  
 
   
   
