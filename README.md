@@ -124,6 +124,10 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Local variables declared inside main function |
 | - How do a ```function call``` work?? | 
 | - Recursive Functions |  
+
+
+| <p align="center"> [Day 07](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2007/day07.md) </p> |
+| ------ | 
   
   
    
