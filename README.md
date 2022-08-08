@@ -115,6 +115,8 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - It will not work if you define it after int main() |  
 | - Overloading Functions - Using same ```Name``` for various forms of that function |
 | - Passing Arrays to C++ Function |  
+| - Pass by Reference |
+| - Reference parameters (&parameter) |
   
   
    
