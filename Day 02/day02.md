@@ -217,3 +217,11 @@ int main() {
     cout<<endl;   
 }
 ```
+
+### **How to print elements of vector** :
+```
+for(auto c:v){
+  cout<<c<<" ";
+  cout<<endl;
+}
+```
