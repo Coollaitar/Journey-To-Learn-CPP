@@ -71,3 +71,20 @@ int main() {
     
 }
 ```
+### **6) Compare Pointers** :
+```
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    string name1 {"Aadit"};
+    string name2 {"Aadit"};
+    string *p1 {&name1};
+    string *p2 {&name2};
+    cout<<boolalpha;
+    cout<<(*p1==*p2)<<endl;
+    cout<<(p1==p2)<<endl;
+    cout<<(name1==name2);    
+}
+```
