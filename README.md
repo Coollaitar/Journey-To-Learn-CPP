@@ -129,8 +129,14 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 
 | <p align="center"> [Day 07](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2007/day07.md) </p> |
 | ------ | 
-  
-  
+| - Starting With Section 12 (Pointers and References) |
+| - What is Pointer ? - It is the variable whose value is an address |
+| - Unintialized Pointer Contains Garbage data and Points Anywhere |
+| - Use nullptr |
+| - All pointers have same size |  
+| - Dereferencing the pointer |
+| - Dynamic Memory Allocation |
+| - Allocating memory dynamically from the heap |  
    
 
 
