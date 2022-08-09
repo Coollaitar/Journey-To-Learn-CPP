@@ -56,3 +56,18 @@ int main() {
     cout<<*arr<<endl;
 }
 ```
+### **5) Different types of notation** :
+```
+#include <iostream>
+using namespace std;
+int main() {
+    int arr[] {1,2,4};
+    int *arr_ptr {arr};
+    cout<<*arr_ptr<<endl; 
+    cout<<arr_ptr[0]<<endl; // Pointer subscript notation
+    cout<<*(arr_ptr)<<endl;
+    cout<<*(arr_ptr+1)<<endl; // Pointer offset notation
+    cout<<*(arr+1)<<endl;     // Array offset notation
+    
+}
+```
