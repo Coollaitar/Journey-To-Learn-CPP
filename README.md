@@ -143,7 +143,8 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Comparing two pointer will compare ```address``` not values |
 | - Pointer Arithmetic |  
 | - Constant In Pointer |
-  
+| - Passing Pointer To Function |
+| - Returning a Pointer from a Function |  
   
    
 
