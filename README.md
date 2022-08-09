@@ -123,7 +123,8 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Global Scope - Dont use Global Variables |
 | - Local variables declared inside main function |
 | - How do a ```function call``` work?? | 
-| - Recursive Functions |  
+| - Recursive Functions | 
+| - Section Challenge Not Completed Yet |
 
 
 | <p align="center"> [Day 07](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2007/day07.md) </p> |
