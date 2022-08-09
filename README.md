@@ -141,6 +141,9 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Relationship ```between ```Arrays and Pointers |
 | - Array of Pointer prints First element of array |
 | - Comparing two pointer will compare ```address``` not values |
+| - Pointer Arithmetic |  
+| - Constant In Pointer |
+  
   
    
 
