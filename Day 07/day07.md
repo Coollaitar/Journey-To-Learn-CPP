@@ -33,3 +33,26 @@ int main() {
     }
 }
 ```
+### **3) Create storage dynamically** :
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    int size {};
+    int *int_ptr {nullptr};
+    int_ptr = new int[size];
+    cout<<int_ptr<<endl;
+    delete[] int_ptr;
+}
+```
+### **4) Array of pointer prints first element of array** :
+```
+#include <iostream>
+using namespace std;
+int main() {
+    int arr[] {1,2,3};
+    cout<<arr<<endl;
+    cout<<*arr<<endl;
+}
+```
