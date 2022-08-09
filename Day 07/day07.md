@@ -88,3 +88,27 @@ int main() {
     cout<<(name1==name2);    
 }
 ```
+### **7) Programme** :
+```
+#include <iostream>
+using namespace std;
+
+void int_data(int *int_ptr){
+    *int_ptr *= 2;
+}
+
+int main() {
+    int value {10};    
+    int *int_ptr {nullptr};
+    int_data(&value);
+    cout<<value<<endl;
+    
+    cout<<"<------------------>"<<endl;
+    
+    int_ptr = &value;
+    int_data(int_ptr);
+    cout<<*int_ptr;
+}
+```
+
+### **8)
