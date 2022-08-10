@@ -148,6 +148,8 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 
 | <p align="center"> [Day 08](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2008/day08.md) </p> |
 | ------ | 
+| - Continuing with Pointers |
+| -* How to create pointer array - ```int *p = new int [5];``` |  
   
    
 
