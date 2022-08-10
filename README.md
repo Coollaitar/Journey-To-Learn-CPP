@@ -150,6 +150,13 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | ------ | 
 | - Continuing with Pointers |
 | -* How to create pointer array - ```int *p = new int [5];``` |  
+| - Delete the memory after using array (freeup the storage)- delete [] array_name |  
+| - Dangling Pointer - Pointer that is pointing to released memory |
+| - dont forget to release allocated memory |  
+| - Use of references in pointer |  
+| - L values and R values |
+| - L values - are the values that have names and are addressable |
+| - R values - values which are not L values (right side) (cannot be modified and not addressable)|
   
    
 
