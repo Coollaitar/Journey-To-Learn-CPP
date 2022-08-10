@@ -1,4 +1,4 @@
-### **1)Returning a Pointer from a Function** :
+### **1) Returning a Pointer from a Function** :
 ```
 #include <iostream>
 using namespace std;
