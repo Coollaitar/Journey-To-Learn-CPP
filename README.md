@@ -157,6 +157,8 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - L values and R values |
 | - L values - are the values that have names and are addressable |
 | - R values - values which are not L values (right side) (cannot be modified and not addressable)|
+| - Completed Section Challenge of Section 12 |
+| - Completed Section 12 |
   
    
 
