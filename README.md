@@ -145,6 +145,9 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Constant In Pointer |
 | - Passing Pointer To Function |
 | - Returning a Pointer from a Function |  
+
+| <p align="center"> [Day 08](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2008/day08.md) </p> |
+| ------ | 
   
    
 
