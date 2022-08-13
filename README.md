@@ -162,6 +162,12 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
  
 | <p align="center"> [Day 09](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2009/day09.md) </p> |
 | ------ | 
+| - Starting with Section 13 (OPP - Classes and Objects) |
+| - Procedural Programming - Focus is on processes or actions that a program takes |
+| - Classes are blueprints from which objects are created |
+| - Delcaring a Class and creating Objects |
+| - Class is terminated with ```;``` (semicolon) |
+| - We are creating a ```User Defined Data Type``` |
    
 
 
