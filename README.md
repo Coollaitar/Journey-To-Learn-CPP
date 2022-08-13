@@ -175,6 +175,8 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Public and Private |
 | - Public , Private , Protected |  
 | - Implementing Member Methods |  
+| - Creating ```.h``` files |  
+| - Constructors and Destructors |  
    
 
 
