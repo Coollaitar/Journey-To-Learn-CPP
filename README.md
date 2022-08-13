@@ -168,6 +168,9 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Delcaring a Class and creating Objects |
 | - Class is terminated with ```;``` (semicolon) |
 | - We are creating a ```User Defined Data Type``` |
+| - Use dot operator |
+| - Use arrow operator (mostly for pointers) |
+| - Derefrence the pointer - ```(*ptr).=``` |
    
 
 
