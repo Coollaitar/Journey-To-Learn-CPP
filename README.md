@@ -171,6 +171,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Use dot operator |
 | - Use arrow operator (mostly for pointers) |
 | - Derefrence the pointer - ```(*ptr).=``` |
+| - Adding public to class is important |
    
 
 
