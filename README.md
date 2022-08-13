@@ -177,7 +177,10 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Implementing Member Methods |  
 | - Creating ```.h``` files |  
 | - Constructors and Destructors |  
-| - Constructor -   
+| - Constructor |
+| - Overloading Constructor |
+| - Destructor - Useful to release memory and other resources |
+| - Calling a destructor (```~Player();```) |  
    
 
 
