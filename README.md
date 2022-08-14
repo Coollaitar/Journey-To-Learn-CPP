@@ -185,6 +185,8 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | <p align="center"> [Day 10](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2010/day10.md) </p> |
 | ------ | 
 | - Continuing with OPPS |
+| - Default Constructor |  
+| - Overloading Constructor |  
 
    
 
