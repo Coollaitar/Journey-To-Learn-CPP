@@ -181,6 +181,11 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Overloading Constructor |
 | - Destructor - Useful to release memory and other resources |
 | - Calling a destructor (```~Player();```) |  
+
+| <p align="center"> [Day 10](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2010/day10.md) </p> |
+| ------ | 
+| - Continuing with OPPS |
+
    
 
 
