@@ -198,6 +198,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Constructor Parameter and Default Values - No addition of ```No arguement constructor``` and ```One arguement constructor``` |
 | - Directly initializing constructor under  ```public:``` |
 | - Player empty; will not work (Ambigous)|
+| - Copy Constructor |   
 
 
 
