@@ -193,7 +193,11 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Constructor Parameters and Default Values |
 
 | <p align="center"> [Day 11](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2011/day11.md) </p> |
-| ------ |    
+| ------ | 
+| - Continuing with OOPS |
+| - Constructor Parameter and Default Values - No addition of ```No arguement constructor``` and ```One arguement constructor``` |
+| - Directly initializing constructor under  ```public:``` |
+| - Player empty; will not work (Ambigous)|
 
 
 
