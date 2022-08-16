@@ -47,3 +47,55 @@ int main(){
     
 }
 ```
+```
+# **Deep Copy Constructor** :
+
+#include <iostream>
+
+using namespace std;
+
+class Deep {
+  
+private:
+
+    int *data;
+
+public:
+    void set_data_values(int d) {*data = d;}
+    int get_data_values() {return *data;}
+    //Constructor 
+    Deep(int d);
+    //Copy
+    Deep(const Deep &source);
+    //Delete
+    ~Deep();
+};
+
+Deep::Deep(int d){
+    data = new int;
+    *data = d;  
+}
+
+Deep::Deep(const Deep &source)
+    :Deep{*source.data}{
+        cout<<"Copy constructor - Deep Copy"<<endl;
+}
+
+Deep::~Deep(){
+    delete data;
+    cout<<"Destructor freeing data"<<endl;
+}
+
+void display_deep(Deep s){
+    cout<<s.get_data_values()<<endl;
+}
+
+int main() {
+    
+    Deep obj1 {100};
+    Deep obj2 {obj1};
+    obj2.set_data_values(1000);
+    display_deep(obj1);     
+    
+}
+```    
