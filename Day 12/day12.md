@@ -47,9 +47,9 @@ int main(){
     
 }
 ```
-```
-# **Deep Copy Constructor** :
 
+# **Deep Copy Constructor** :
+```
 #include <iostream>
 
 using namespace std;
