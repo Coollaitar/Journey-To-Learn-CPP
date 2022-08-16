@@ -205,7 +205,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Copy of constructor is used to intialize the members of newly created object by copying the members of an already existing object |
 | - Copy of constructor has to be intialize in ```public:``` |  
 | - Shallow Copying with the Copy constructor |
-| - Shallow Copy - Doesnt Work With Heap Memory Allocation |  
+| - Shallow Copy - Work With Heap Memory Allocation but if some variables are dynamically allocated memory from heap section then the copied object will also reference the same memory location |  
   
   
   
