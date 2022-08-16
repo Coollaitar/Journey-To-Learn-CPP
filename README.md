@@ -202,7 +202,8 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 
 | <p align="center"> [Day 12](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2012/day12.md) </p> |
 | ------ | 
-| -|
+| - Copy of constructor is used to intialize the members of newly created object by copying the members of an already existing object |
+| - Copy of constructor has to be intialize in ```public:``` |  
 
   
   
