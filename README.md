@@ -206,6 +206,9 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Copy of constructor has to be intialize in ```public:``` |  
 | - Shallow Copying with the Copy constructor |
 | - Shallow Copy - Work With Heap Memory Allocation but if some variables are dynamically allocated memory from heap section then the copied object will also reference the same memory location |  
+| - Changes are made in  ```copy constructor``` to define Shallow and Deep Constructor |
+| - For Shallow(we use copy constructor as) - ```*data = source.data``` |
+| - For Deep(we use copy constructor as) - ```*data = *source.data``` |
   
   
   
