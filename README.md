@@ -215,6 +215,6 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Can be used for efficiency |
 | - Single ```&``` refers to ```L value``` and Double ```&&``` refers to ```R value``` |
 | - Move Constructor moves the resources in the heap |
-| - Intialization in ```public:``` of Move Constructor : ```Move(Move &&source)noexcept``` |
+| - Intialization in ```public:``` of Move Constructor : ```Move(Move &&source)noexcept;``` |
   
   
