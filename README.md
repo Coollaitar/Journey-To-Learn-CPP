@@ -209,6 +209,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Changes are made in  ```copy constructor``` to define Shallow and Deep Constructor |
 | - For Shallow(we use copy constructor as) - ```*data = source.data``` |
 | - For Deep(we use copy constructor as) - ```*data = *source.data``` |
+| - Deep - Copy Heap Storage (Not copying pointer we are copying data to the pointer) |   
   
   
   
