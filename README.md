@@ -200,7 +200,9 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Player empty; will not work (Ambigous)|
 | - Copy Constructor |   
 
-
+| <p align="center"> [Day 12](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2012/day12.md) </p> |
+| ------ | 
+| -|
 
   
   
