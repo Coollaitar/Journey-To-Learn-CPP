@@ -100,7 +100,7 @@ int main() {
 }
 ```    
 # **Move Constructor** :
-<picture>
+```
 #include <iostream>
 #include <vector>
 
@@ -161,4 +161,4 @@ int main(){
     vec.push_back(Move{20});
     
 }
-</picture>
+```
