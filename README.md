@@ -217,6 +217,6 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Move Constructor moves the resources in the heap |
 | - Intialization in ```public:``` of Move Constructor : ```Move(Move &&source)noexcept;``` |
 | - The ```this``` Pointer | 
-| - Using *const* with Classes |  
+| - Using *const* with Classes - ```std::string get_name() const{return name}``` |  
   
   
