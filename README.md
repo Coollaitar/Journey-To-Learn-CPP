@@ -210,6 +210,11 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - For Shallow(we use copy constructor as) - ```*data = source.data``` |
 | - For Deep(we use copy constructor as) - ```*data = *source.data``` |
 | - Deep - Copy Heap Storage (Not copying pointer we are copying data to the pointer) |   
-| - ```Shallow And Deep Copy Are One Of The Important Topic According To Me ```|
+| - ```Shallow And Deep Copy Are One Of The Most Important Topic According To Me ```|
+| - Move Constructors |
+| - Can be used for efficiency |
+| - Single ```&``` refers to ```L value``` and Double ```&&``` refers to ```R value``` |
+| - Move Constructor moves the resources in the heap |
+| - Intialization in ```public:``` of Move Constructor : ```Move(Move &&source)noexcept``` |
   
   
