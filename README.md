@@ -221,5 +221,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Static Class Members |  
 | - Struct V/s Classes (**Just Use Classes**)|  
 | - Friends of a Class - A Function or a Class that has ```access``` to the private class members (Will be used in next section in Operator Overloading) |  
+| - Section Challenge 13 remaining |
+  
   
   
