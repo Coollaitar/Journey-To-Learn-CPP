@@ -223,5 +223,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Friends of a Class - A Function or a Class that has ```access``` to the private class members (Will be used in next section in Operator Overloading) |  
 | - Section Challenge 13 remaining |
   
-  
+| <p align="center"> [Day 13](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2013/day13.md) </p> |
+| ------ |   
+| - |
   
