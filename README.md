@@ -225,5 +225,9 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
   
 | <p align="center"> [Day 13](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2013/day13.md) </p> |
 | ------ |   
-| - |
+| - Will Do Section Challenge in some time |  
+| - Starting With Section Operator Overloading |
+| - What is Operator Overloading ? - ```Using Traditional Operators``` |
+| - Makes Code Easily Readable and Understandable |
+| - Assignment operator must be declared as the member methods |  
   
