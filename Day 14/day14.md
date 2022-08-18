@@ -1,5 +1,5 @@
 # **Mystring.h File** :
-`
+```
 #ifndef _MYSTRING_H
 #define _MYSTRING_H
 
@@ -18,9 +18,9 @@ public:
 };
 
 #endif //_MYSTRING_H
-`
+```
 # **Mystring.cpp File** :
-`
+```
 #include <iostream>
 #include <cstring>
 #include "Mystring.h"
@@ -68,9 +68,9 @@ int Mystring::get_length() const{
 
 //string getter
 const char *Mystring::get_str() const {return str;}
-`
+```
 # **main.cpp File** :
-`
+```
 #include <iostream>
 #include "Mystring.h"
 
@@ -86,4 +86,4 @@ int main() {
     larry.display();
     stooge.display();
 }
-`
+```
