@@ -234,4 +234,4 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | <p align="center"> [Day 14](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2014/day14.md) </p> |
 | ------ |
 | - Continuing with section Section 14 |
-| - **We store Declaration of class in ```Mystring.h``` file and  Initialization in ```Mystring.cpp``` file and calling in ```main.cpp``` |  
+| - **We store Declaration of class in ```Mystring.h``` file and  Initialization in ```Mystring.cpp``` file and calling in ```main.cpp```** |  
