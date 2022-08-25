@@ -246,3 +246,4 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - We need extra space for terminator |
 | - Perform the copy : ```std::strcpy(str,rhs.str); |
 | - Return the current by reference to allow chain assignment : return *this; |
+| -  |  
