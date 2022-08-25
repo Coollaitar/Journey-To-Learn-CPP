@@ -241,3 +241,4 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | <p align="center"> [Day 15](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2015/day15.md) </p> |
 | ------ |
 | - Operator Overloading Provides us *Flexibility* |  
+| - Overloading Assignment Operator (deep copy) is intialized - Mystring &Mystring :: operator = (const Mystring &rhs); |
