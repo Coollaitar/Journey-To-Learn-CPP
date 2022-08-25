@@ -241,4 +241,8 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | <p align="center"> [Day 15](https://github.com/Coollaitar/Journey-To-Learn-CPP/blob/main/Day%2015/day15.md) </p> |
 | ------ |
 | - Operator Overloading Provides us *Flexibility* |  
-| - Overloading Assignment Operator (deep copy) is intialized - Mystring &Mystring :: operator = (const Mystring &rhs); |
+| - Overloading Assignment Operator (deep copy) is intialized - ```Mystring &Mystring :: operator = (const Mystring &rhs);``` |
+| - Steps for deep copy - 1) Allocate storage for deep copy : ```str = new char [std::strlen(rhs.str) + 1]``` |
+| - We need extra space for terminator |
+| - Perform the copy : ```std::strcpy(str,rhs.str); |
+| - Return the current by reference to allow chain assignment : return *this; |
