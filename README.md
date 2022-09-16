@@ -216,6 +216,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Single ```&``` refers to ```L value``` and Double ```&&``` refers to ```R value``` |
 | - Move Constructor moves the resources in the heap |
 | - Intialization in ```public:``` of Move Constructor : ```Move(Move &&source)noexcept;``` |
+| - ```source.data = nullptr;```Important step or it will end up doing shallow copy |
 | - The ```this``` Pointer | 
 | - Using *const* with Classes - ```std::string get_name() const{return name}``` |  
 | - Static Class Members |  
