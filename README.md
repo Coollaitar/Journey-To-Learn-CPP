@@ -221,6 +221,7 @@ Udemy Course : https://www.udemy.com/course/beginning-c-plus-plus-programming/le
 | - Using *const* with Classes - ```std::string get_name() const{return name}``` |  
 | - Static Class Members |  
 | - Struct V/s Classes (**Just Use Classes**)|  
+| - Objects are by default ```public``` in Structs and ```private``` in Classes |
 | - Friends of a Class - A Function or a Class that has ```access``` to the private class members (Will be used in next section in Operator Overloading) |  
 | - Section Challenge 13 remaining |
   
