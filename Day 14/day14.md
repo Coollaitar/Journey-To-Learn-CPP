@@ -1,5 +1,5 @@
 # **Mystring.h File** :
-```
+```cpp
 #ifndef _MYSTRING_H
 #define _MYSTRING_H
 
@@ -20,7 +20,7 @@ public:
 #endif //_MYSTRING_H
 ```
 # **Mystring.cpp File** :
-```
+```cpp
 #include <iostream>
 #include <cstring>
 #include "Mystring.h"
@@ -70,7 +70,7 @@ int Mystring::get_length() const{
 const char *Mystring::get_str() const {return str;}
 ```
 # **main.cpp File** :
-```
+```cpp
 #include <iostream>
 #include "Mystring.h"
 
